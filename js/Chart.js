@@ -3,7 +3,7 @@ jQuery(document).ready(function () {
   /* Promise to make sure data loads */
   return new Promise((resolve, reject) => {
     $.ajax({
-      url: "../q3.Barchart.json",
+      url: "https://koichisugi.github.io/Intermediate_03Chartjs/q3.Barchart.json",
       method: "GET",
       dataType: "JSON",
       success: function (data) {
@@ -48,7 +48,7 @@ jQuery(document).ready(function () {
   /* Promise to make sure data loads */
   return new Promise((resolve, reject) => {
     $.ajax({
-      url: "../q3.Piechart.json",
+      url: "https://koichisugi.github.io/Intermediate_03Chartjs/q3.Piechart.json",
       method: "GET",
       dataType: "JSON",
       success: function (data) {
