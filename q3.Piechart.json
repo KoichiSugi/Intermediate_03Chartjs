@@ -1,0 +1,28 @@
+{
+   "labels":[
+      "GBPUSD",
+      "USDJPY",
+      "USDAUD",
+      "GBPEUR",
+      "EURAUD",
+      "EURJPY",
+      "Other"
+   ],
+   "data":[
+      2.00,
+      0.75,
+      0.55,
+      0.45,
+      0.3,
+      0.15,
+      0.16
+   ],
+   "backgroundColor": [
+      "#3498DB",
+      "#BDC3C7",
+      "#9B59B6",
+      "#E74C3C",
+      "#26B99A",
+      "#73879c"
+    ]
+}
