@@ -3,7 +3,7 @@ jQuery(document).ready(function () {
   /* Promise to make sure data loads */
   return new Promise((resolve, reject) => {
     $.ajax({
-      url: "https://koichisugi.github.io/Intermediate_03Chartjs/q3.Barchart.json",
+      url: "https://koichisugi.github.io/json-to-pie-bar-chart-chartJs/q3.Barchart.json",
       method: "GET",
       dataType: "JSON",
       success: function (data) {
